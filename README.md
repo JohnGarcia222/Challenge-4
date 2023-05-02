@@ -18,7 +18,7 @@ Libraries: Pandas, Matplotlib, numpy, and Pathlib
 
 -------------------------------
 
-#Installing Software
+# Installing Software
 
 ---------------------------------
 
@@ -34,12 +34,21 @@ Following the installation you would want to clone the repository, place it into
 
 -------------------------------------
 
-#Code Usage
+# Code Usage
 
 -----------------------------------
 
 As stated in the description of this project you will find a comparison of four fund portfolios and S&P 500 within running this code. It is not recommened to change the code unless you input a csv file to pull from and then procede to go through and change every instance of the code where a specific csv path was pulled. 
 
 ![Screenshot 2023-04-17 025954](https://user-images.githubusercontent.com/127170402/235442830-289b20d3-1f84-4e2c-9975-f807a4fc37e5.png)
+
+---------------------------------
+
+#Editor
+
+-------------------------------
+
+John Garcia
+Email:jdganna222@gmail.com
 
 
